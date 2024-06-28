@@ -86,13 +86,13 @@ document.addEventListener("DOMContentLoaded", function () {
 // Dark/ Light Mode Toggle end
 
 // Portfolio Pop-up
-$(".pop-up").on("click", function () {
+/*$(".pop-up").on("click", function () {
     $(".overlay").addClass("is-on");
 });
 
 $("#close").on("click", function () {
     $(".overlay").removeClass("is-on");
-});
+});*/
 // Portfolio Pop-up end
 
 // Share Btn
